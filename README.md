@@ -58,4 +58,4 @@ HipChat lets you combine and choose from a [few different scopes](https://www.hi
 
 ## Special Thanks
 
-Many thanks to the [omniauth-slack](https://github.com/CanCanCommunity/cancancan/contributors) and [omniauth-reddit contributors](https://github.com/CanCanCommunity/cancancan/contributors). This strategy was inspired by Omniauth Slack and Reddit strategies.
+Many thanks to the [omniauth-slack](https://github.com/kmrshntr/omniauth-slack/graphs/contributors) and [omniauth-reddit contributors](https://github.com/jackdempsey/omniauth-reddit/graphs/contributors). This strategy was inspired by Omniauth Slack and Reddit strategies.
