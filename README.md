@@ -59,3 +59,7 @@ HipChat lets you combine and choose from a [few different scopes](https://www.hi
 ## Special Thanks
 
 Many thanks to the [omniauth-slack](https://github.com/kmrshntr/omniauth-slack/graphs/contributors) and [omniauth-reddit contributors](https://github.com/jackdempsey/omniauth-reddit/graphs/contributors). This strategy was inspired by Omniauth Slack and Reddit strategies.
+
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/pinoss/omniauth-hipchat/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
